@@ -1,4 +1,4 @@
-#GraphQL Full stack tutorial using Apollo Client & Server
+# GraphQL Full stack tutorial using Apollo Client & Server
 The Schema Definations will be under `datasources` directory. Schema is structured in a way that it defines what my applications needs to be able to do and
 what actions my client will take. Schema will define what type of data my client can read and write to the Graph.
  
